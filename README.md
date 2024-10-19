@@ -20,20 +20,6 @@ The **World News App** is a Flutter-based application that provides users with t
 ## Getting Started
 To run the World News App locally, follow these steps:
 
-### Prerequisites
-- **Flutter SDK**: Make sure you have Flutter installed on your machine. Follow the [Flutter installation guide](https://flutter.dev/docs/get-started/install) for instructions.
-- **Dart SDK**: This comes bundled with the Flutter SDK.
-- **News API Key**: Sign up at [News API](https://newsapi.org/) and obtain your API key.
-
-### Clone the Repository
-```bash
-git clone https://github.com/Saaria-Zahid/World-News-App
-cd world-news-app
-
-
-## Project Duration
-**2 October 2024 - 5 October 2024**
-## Deployment
 
 1. **Clone the repository**:
 
@@ -55,3 +41,9 @@ flutter pub get
 ```bash
 flutter run
 ```
+
+### Prerequisites
+- **Flutter SDK**: Make sure you have Flutter installed on your machine. Follow the [Flutter installation guide](https://flutter.dev/docs/get-started/install) for instructions.
+- **Dart SDK**: This comes bundled with the Flutter SDK.
+- **News API Key**: Sign up at [News API](https://newsapi.org/) and obtain your API key.
+
